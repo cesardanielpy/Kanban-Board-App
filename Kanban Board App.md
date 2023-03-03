@@ -1,5 +1,4 @@
 <h1 align="center">Kanban Board Project</h1>
-https://user-images.githubusercontent.com/116519550/222627510-06b303f0-90d6-4372-866f-c748a22f72e9.png
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN DESAROLLO-green">
    </p>
